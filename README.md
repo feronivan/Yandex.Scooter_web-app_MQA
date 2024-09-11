@@ -87,7 +87,7 @@
 
 ***
 </details>
-[Макеты веб-приложения "Яндекс.Самокат"](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web?node-id=0-1&node-type=canvas&t=TBhAvHdQt0pXQz7t-0).
+[Макеты веб-приложения Яндекс.Самокат](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web?node-id=0-1&node-type=canvas&t=TBhAvHdQt0pXQz7t-0).
 
 ## Проделанная работа:
 1. Проанализированы требования.
